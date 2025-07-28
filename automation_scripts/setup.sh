@@ -1,3 +1,4 @@
+#!/bin/bash
 mkdir project_folder
 cd project_folder
 mkdir src
